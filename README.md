@@ -1,1 +1,1 @@
-# chest_cancer_classification_project
+# chest_cancer_classification
